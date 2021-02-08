@@ -1,0 +1,68 @@
+body{
+    background-color: #efe8e8;
+
+}
+.dark-bg{
+    background-color: #343A40;
+
+}
+.gray-bg{
+    background-color: #efe8e8;
+    color: #343A40;
+
+}
+.color-white{
+    color: white;
+}
+.color-dark{
+    color: #192821;
+}
+.btn-orange{
+    background-color: #FF6700;
+    color: #fff;
+}
+
+.focus{
+
+    font-size: 10vh;
+    font-weight: bold;
+
+}
+.plain{
+    font-size: 6vh;
+}
+
+.round-img{
+    border-radius: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: #efe8e8;
+    color: #343A40;
+}
+
+footer a{
+    text-decoration: none;
+    color: #192821
+}
+footer a:hover{
+    text-decoration: none;
+    color: #FF6700;
+}
+footer h4{
+    margin-left: 2rem;
+}
+footer ul{
+    list-style: none;
+
+}
